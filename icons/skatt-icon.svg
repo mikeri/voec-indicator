@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="logoNorskSvart"
+   data-name="Layer 1"
+   viewBox="0 0 101.47866 68.988493"
+   version="1.1"
+   sodipodi:docname="skatt-icon.svg"
+   width="101.47866"
+   height="68.988495"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata850">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Startside til skatteetaten</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs848" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="1055"
+     id="namedview846"
+     showgrid="false"
+     inkscape:zoom="4.4595751"
+     inkscape:cx="52.774631"
+     inkscape:cy="32.149535"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="logoNorskSvart" />
+  <title
+     id="title815">Startside til skatteetaten</title>
+  <path
+     d="m 0,41.314032 c 0,15.2844 22.71564,27.67446 50.73241,27.67446 28.02025,0 50.74625,-12.39006 50.74625,-27.67446 0,-10.55038 -10.81662,-19.72445 -26.74767,-24.38929 L 50.77392,41.314032 V 27.423252 L 74.73099,3.279422 A 86.706,86.706 0 0 0 50.64251,0.00126196 L 50.64941,13.646522 C 22.67072,13.670782 0,26.046942 0,41.314032 Z"
+     id="path819"
+     style="fill:#b3b3b3"
+     inkscape:connector-curvature="0" />
+</svg>
