@@ -7,7 +7,7 @@
 
     "manifest_version": 2,
     "name": "VOEC Indicator",
-    "version": "1.0.5",
+    "version": "1.0.6",
 
     "description": "Indicate if the current website is registered in the Norwegian VOEC registry",
 
